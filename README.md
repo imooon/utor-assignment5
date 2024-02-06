@@ -23,7 +23,7 @@ https://github.com/imooon/utor-assignment5
 
 ## URL of the deployed application
 
-
+https://imooon.github.io/utor-assignment5/
 
 ## License 
 
