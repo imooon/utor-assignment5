@@ -1,6 +1,7 @@
 # Work Day Scheduler Starter Code
 
-image goes here
+![_E__BootCamp_Class_assignment5_Develop_index html](https://github.com/imooon/utor-assignment5/assets/110244046/456d0d45-93a9-4f06-96ec-d76f1a8f88f7)
+
 
 ## Description
 
@@ -18,7 +19,7 @@ image goes here
 
 ## URL of the GitHub repository
 
-
+https://github.com/imooon/utor-assignment5
 
 ## URL of the deployed application
 
